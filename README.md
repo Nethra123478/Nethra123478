@@ -64,56 +64,11 @@ Hi! I'm **Nethra K**, a **MERN Stack Developer** passionate about building moder
   <img src="https://cdn.simpleicons.org/r/276dc3" width="48" height="48" alt="R" />
 </p>
 
-## GitHub Status
+## 🔥 My Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NethraK&show_icons=true&hide_border=true&title_color=14b8a6&icon_color=2dd4bf&text_color=d1d5db&bg_color=111827" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethraK&layout=compact&hide_border=true&title_color=14b8a6&text_color=d1d5db&bg_color=111827" alt="Most used programming languages" />
+  <img src="https://streak-stats.demolab.com?user=NethraK&theme=dark&hide_border=true&background=000000&ring=ffa500&fire=ffa500&currStreakLabel=ffa500&sideLabels=ffffff&dates=ffffff" alt="NethraK GitHub contribution statistics showing total contributions, current streak, and longest streak" />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NethraK&theme=dark&hide_border=true&background=111827&ring=14b8a6&fire=f97316&currStreakLabel=2dd4bf" alt="GitHub contribution streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NethraK&bg_color=111827&color=d1d5db&line=14b8a6&point=2dd4bf&area=true&hide_border=true" alt="GitHub contribution graph" width="95%" />
-</div>
-
-## Projects
-
-> Replace the placeholders below with your real projects, repository URLs, and deployed demos.
-
-### Project Name 1
-
-Short description of the project and the problem it solves.
-
-**Technologies:** `React` `Node.js` `Express.js` `MongoDB`
-
-[GitHub Repository](YOUR_PROJECT_1_GITHUB_URL) · [Live Demo](YOUR_PROJECT_1_LIVE_DEMO_URL)
-
-### Project Name 2
-
-Short description of the project and the key features you built.
-
-**Technologies:** `React` `Flask` `PostgreSQL` `REST API`
-
-[GitHub Repository](YOUR_PROJECT_2_GITHUB_URL) · [Live Demo](YOUR_PROJECT_2_LIVE_DEMO_URL)
-
-### Project Name 3
-
-Short description of the project and the main technical highlights.
-
-**Technologies:** `JavaScript` `Node.js` `Firebase` `Bootstrap`
-
-[GitHub Repository](YOUR_PROJECT_3_GITHUB_URL) · [Live Demo](YOUR_PROJECT_3_LIVE_DEMO_URL)
-
-### Project Name 4
-
-Short description of the project and the tools or technologies used.
-
-**Technologies:** `Python` `Flask` `Docker` `PostgreSQL`
-
-[GitHub Repository](YOUR_PROJECT_4_GITHUB_URL) · [Live Demo](YOUR_PROJECT_4_LIVE_DEMO_URL)
 
 ## Connect With Me
 
