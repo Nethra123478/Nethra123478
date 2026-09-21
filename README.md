@@ -1,9 +1,5 @@
 <div align="center">
 
-# NETHRA K
-
-### MERN STACK DEVELOPER
-
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0f766e&height=180&section=header&text=NETHRA%20K&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MERN%20STACK%20DEVELOPER&descAlignY=62&descSize=18" alt="Nethra K MERN Stack Developer banner" width="100%" />
 </p>
@@ -25,63 +21,47 @@ Hi! I'm **Nethra K**, a **MERN Stack Developer** passionate about building moder
 - 🛠️ Enjoy building real-world projects and solving problems through technology
 - 🚀 Always learning and exploring new technologies
 
-## Technical Skills
+<h2 align="center">Technical Skills</h2>
 
-### MERN Stack
+<h3 align="center">MERN Stack</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MongoDB, Express.js, React.js, Node.js" />
 </p>
 
-### Programming Languages
+<h3 align="center">Programming Languages</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111827" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,javascript" alt="Python, C, JavaScript" />
 </p>
 
-### Frontend
+<h3 align="center">Frontend</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="HTML5, CSS3, Bootstrap, React" />
 </p>
 
-### Backend
+<h3 align="center">Backend</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/REST%20API-0F766E?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" alt="Node.js, Express.js, Flask, REST APIs" />
+  <br />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/14b8a6" width="48" height="48" alt="JSON Web Tokens" />
 </p>
 
-### Databases
+<h3 align="center">Databases</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" alt="Firebase" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" alt="MongoDB, PostgreSQL, Firebase" />
 </p>
 
-### Tools & Technologies
+<h3 align="center">Tools &amp; Technologies</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111827" alt="Render" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vercel" alt="Git, GitHub, Postman, Docker, Linux, Vercel" />
+  <br />
+  <img src="https://cdn.simpleicons.org/render/46e3b7" width="48" height="48" alt="Render" />
+  <img src="https://cdn.simpleicons.org/r/276dc3" width="48" height="48" alt="R" />
 </p>
 
 ## Featured Skills
