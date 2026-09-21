@@ -64,36 +64,6 @@ Hi! I'm **Nethra K**, a **MERN Stack Developer** passionate about building moder
   <img src="https://cdn.simpleicons.org/r/276dc3" width="48" height="48" alt="R" />
 </p>
 
-## Featured Skills
-
-<div align="center">
-
-<a href="https://www.mongodb.com/mern-stack" title="MERN Stack">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN Stack" height="48" />
-</a>
-&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Learn" title="Full Stack Development">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" alt="Full Stack Development" height="48" />
-</a>
-&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" title="REST APIs">
-  <img src="https://skillicons.dev/icons?i=postman,fastapi" alt="REST APIs" height="48" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.mongodb.com/resources/basics/databases" title="Databases">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" alt="Databases" height="48" />
-</a>
-&nbsp;&nbsp;
-<a href="https://docs.docker.com/get-started/" title="Docker">
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="48" />
-</a>
-&nbsp;&nbsp;
-<a href="https://docs.github.com/en/get-started/learning-about-github" title="Git and GitHub">
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub" height="48" />
-</a>
-
-</div>
-
 ## GitHub Status
 
 <div align="center">
