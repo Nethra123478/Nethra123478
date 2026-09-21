@@ -75,8 +75,8 @@ Hi! I'm **Nethra K**, a **MERN Stack Developer** passionate about building moder
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-NethraK-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NethraK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethra-k-567566280)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nethraswathi17@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 </div>
